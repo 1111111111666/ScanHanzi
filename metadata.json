@@ -1,0 +1,5 @@
+{
+  "name": "ScanHanzi",
+  "description": "ScanHanzi is an intelligent assistant that analyzes Chinese text from notes, extracts vocabulary, assigns HSK levels, corrects example sentences, and generates flashcards with Russian translations.",
+  "requestFramePermissions": []
+}
